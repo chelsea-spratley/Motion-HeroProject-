@@ -97,6 +97,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/dev\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/index.html",
+      "oF" : 0
+    },
     "\/README.md" : {
       "cB" : 0,
       "cS" : 0,
