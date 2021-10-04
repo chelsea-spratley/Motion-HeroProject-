@@ -413,7 +413,7 @@ header img {
   display: grid;
   padding: 10px;
 }
-header li {
+header ul {
   display: flex;
   flex-direction: row;
 }
