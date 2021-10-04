@@ -416,6 +416,34 @@ header img {
 header ul {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
   padding: 10px;
   font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  margin-top: -10px;
+}
+
+article {
+  background-image: url("../../../deploy/img/background.jpg");
+  background-size: cover;
+  height: 980px;
+  width: 1452px;
+}
+
+img {
+  display: grid;
+  padding-left: 700px;
+  padding-top: 500px;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 144px;
+  font-weight: bold;
+  left: 150px;
+  top: 350px;
+  display: flex;
+  flex-direction: column;
 }
