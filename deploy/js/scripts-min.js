@@ -1,1 +1,1 @@
-!function(){"use strict";console.log("hey"),$("body").css("background","grey")}();
+import{gsap}from"gsap";const mainTL=gsap.timeline();
