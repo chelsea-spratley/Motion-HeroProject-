@@ -16,9 +16,7 @@ $rem-base: 16px !default; // list-separator polyfill by Hugo Giraudel (https://s
     }
     @return if($test-list==$list, space, comma);
 }
-@mixin rem-base($zoom: 100%) {
-    font-size: $zoom / 16px * $rem-base;
-}
+
 @function rem-convert($to, $values...) {
     $result: ();
     $separator: rem-separator($values);
