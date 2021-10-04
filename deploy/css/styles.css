@@ -414,7 +414,7 @@ header img {
   padding: 10px;
 }
 header li {
-  align-items: right;
+  align-items: left;
 }
 header li .variation {
   display: flex;
