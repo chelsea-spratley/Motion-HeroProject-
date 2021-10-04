@@ -85,9 +85,7 @@ $rem-base: 16px !default; // list-separator polyfill by Hugo Giraudel (https://s
     @return $remValues;
 }
 
-html {
-    @include rem-base;
-}
+
 
 
 

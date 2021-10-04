@@ -400,15 +400,11 @@ a {
     Mixins
 ============= */
 /* ---------------- Font Sizing ---------------- */
-html {
-  font-size: 100%;
-}
-
 /* ---------------- Media Queries ---------------- */
 /* =============
     Variables
 ============= */
-.ul {
-  background-size: 1440px 90px;
+header {
   background-color: #FBEABE;
+  height: 90px;
 }
