@@ -408,3 +408,7 @@ header {
   background-color: #FBEABE;
   height: 90px;
 }
+header img {
+  display: grid;
+  padding: 10px;
+}
