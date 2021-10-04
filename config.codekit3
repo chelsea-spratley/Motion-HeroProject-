@@ -9,58 +9,6 @@
   ],
   "creatorBuild" : "34214",
   "files" : {
-    "\/assets\/background.jpg" : {
-      "ft" : 16384,
-      "iS" : 340890,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/background.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/cookies.jpg" : {
-      "ft" : 16384,
-      "iS" : 40829,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/cookies.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/flower.jpg" : {
-      "ft" : 16384,
-      "iS" : 673,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/flower.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/logo.jpg" : {
-      "ft" : 16384,
-      "iS" : 1381,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/logo.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/deploy\/css\/styles-min.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -72,6 +20,58 @@
       "oAP" : "\/deploy\/css\/styles-min-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/deploy\/img\/background.jpg" : {
+      "ft" : 16384,
+      "iS" : 340890,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/background.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cookies.jpg" : {
+      "ft" : 16384,
+      "iS" : 40829,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cookies.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/flower.jpg" : {
+      "ft" : 16384,
+      "iS" : 673,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/flower.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/logo.jpg" : {
+      "ft" : 16384,
+      "iS" : 1381,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/logo.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
@@ -150,8 +150,8 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/index.html",
-      "oF" : 1
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 3
     },
     "\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
