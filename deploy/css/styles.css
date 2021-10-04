@@ -407,8 +407,16 @@ a {
 header {
   background-color: #FBEABE;
   height: 90px;
+  opacity: 50%;
 }
 header img {
   display: grid;
   padding: 10px;
+}
+header li {
+  align-items: right;
+}
+header li .variation {
+  display: flex;
+  flex-direction: row;
 }

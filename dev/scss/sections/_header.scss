@@ -2,9 +2,18 @@ header {
 
     background-color: $yellow;
     height: 90px;
+    opacity: 50%;
 
     img {
         display: grid;
         padding: 10px;
+    }
+
+    li {
+        align-items: right;
+        .variation{ 
+            display: flex;
+            flex-direction: row;
+           }
     }
 }
