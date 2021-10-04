@@ -105,6 +105,22 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/dev\/content\/head.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/head.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/Header.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/Header.html",
+      "oF" : 0
+    },
     "\/dev\/content\/Header.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -135,6 +151,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/global\/scripts.html",
+      "oF" : 0
+    },
+    "\/dev\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/index.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
