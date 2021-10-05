@@ -9,15 +9,20 @@ article {
 
 img {
     display:grid;
-    padding-left: 700px;
+    padding-left: 45%;
     padding-top: 500px;
+    position: absolute;
 }
 
 h1 {
     font-family:'Roboto', sans-serif;
     position: absolute;
+    left: 69%;
+    bottom: -30%;
     color: white;
     font-size: 144px;
     font-weight: bold;
-    padding-left: 950px;
+    // display: grid;
+    // padding-left: 925px;
+    // padding-bottom: 400px;
 }

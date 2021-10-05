@@ -47,31 +47,35 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/flower.jpg" : {
-      "ft" : 16384,
-      "iS" : 673,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/flower.jpg",
+    "\/deploy\/img\/flower.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/flower.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/deploy\/img\/logo.jpg" : {
-      "ft" : 16384,
-      "iS" : 1381,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/logo.jpg",
+    "\/deploy\/img\/logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/logo.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Rectangle.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Rectangle.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
@@ -144,7 +148,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/global\/head.html",
       "oF" : 2
     },

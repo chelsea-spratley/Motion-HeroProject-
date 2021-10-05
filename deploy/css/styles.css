@@ -405,19 +405,25 @@ a {
     Variables
 ============= */
 header {
+  position: fixed;
   background-color: #FBEABE;
   height: 90px;
+  width: 100%;
   opacity: 50%;
 }
 header img {
   display: grid;
   padding: 10px;
+  display: inline-block;
 }
 header ul {
   font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  color: #ffff;
   display: grid;
-  grid-template-columns: 20% auto;
-  padding: 8px 16px 8px 16px;
+  grid-template-columns: 10% 14% auto;
+  padding: 16px;
+  margin-left: 400px;
 }
 
 article {
@@ -429,15 +435,35 @@ article {
 
 img {
   display: grid;
-  padding-left: 700px;
+  padding-left: 45%;
   padding-top: 500px;
+  position: absolute;
 }
 
 h1 {
   font-family: "Roboto", sans-serif;
   position: absolute;
+  left: 69%;
+  bottom: -30%;
   color: white;
   font-size: 144px;
   font-weight: bold;
-  padding-left: 950px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: grid;
+  grid-template-columns: auto 1440px auto;
+}
+
+img {
+  margin-left: auto;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
 }
