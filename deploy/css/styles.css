@@ -414,13 +414,10 @@ header img {
   padding: 10px;
 }
 header ul {
-  display: grid;
-  grid-template-columns: auto;
-  justify-content: space-between;
-  padding: 10px;
   font-family: "Roboto", sans-serif;
-  font-size: 24px;
-  margin-top: -10px;
+  display: grid;
+  grid-template-columns: 20% auto;
+  padding: 8px 16px 8px 16px;
 }
 
 article {
