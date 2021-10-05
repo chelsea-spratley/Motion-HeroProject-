@@ -10,8 +10,8 @@ header {
     }
 
     ul {
-            display: flex;
-            flex-direction: row;
+            display: grid;
+            grid-template-columns: auto;
             justify-content: space-between;
             padding: 10px;
             font-family: 'Roboto', sans-serif;
