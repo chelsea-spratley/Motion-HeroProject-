@@ -409,21 +409,23 @@ header {
   background-color: #FBEABE;
   height: 90px;
   width: 100%;
-  opacity: 50%;
+  background: rgba(251, 234, 190, 0.5);
 }
 header img {
   display: grid;
-  padding: 10px;
-  display: inline-block;
+  top: -490px;
+  left: -600px;
 }
 header ul {
   font-family: "Roboto", sans-serif;
   font-size: 24px;
-  color: #ffff;
   display: grid;
-  grid-template-columns: 10% 14% auto;
-  padding: 16px;
-  margin-left: 400px;
+  grid-template-columns: 25% 34% 20%;
+  margin-left: 67%;
+  padding-top: 30px;
+}
+header ul a, header ul a:hover, header ul a:active, header ul a:visited {
+  color: white;
 }
 
 article {
@@ -443,7 +445,7 @@ img {
 h1 {
   font-family: "Roboto", sans-serif;
   position: absolute;
-  left: 69%;
+  left: 66%;
   bottom: -30%;
   color: white;
   font-size: 144px;

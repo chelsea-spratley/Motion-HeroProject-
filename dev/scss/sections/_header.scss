@@ -3,30 +3,22 @@ header {
     background-color: $yellow;
     height: 90px;
     width: 100%;
-    opacity: 50%;
-    
+    background: rgba(251, 234, 190, 0.5);
 
     img {
         display: grid;
-        padding: 10px;
-        display: inline-block;
-        
+        top: -490px;
+        left: -600px;
     }
 
     ul {
-        // display: inline-block;
-            // justify-content: space-between;
-            // padding: 10px;
         font-family: 'Roboto', sans-serif;
         font-size: 24px;
-        color: #ffff;
-            // margin-top: -10px;
         display: grid;
-        grid-template-columns: 10% 14% auto;
-        padding: 16px;
-        margin-left: 400px;
-
-           
+        grid-template-columns: 25% 34% 20%;
+        margin-left: 67%;
+        padding-top: 30px;
+        a, a:hover, a:active, a:visited { color: white; }
     }
     
 
