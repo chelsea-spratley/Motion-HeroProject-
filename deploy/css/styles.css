@@ -406,15 +406,14 @@ a {
 ============= */
 header {
   position: fixed;
-  background-color: #FBEABE;
   height: 90px;
   width: 100%;
   background: rgba(251, 234, 190, 0.5);
 }
 header img {
   display: grid;
-  top: -490px;
-  left: -600px;
+  padding-left: 20px;
+  padding-top: 10px;
 }
 header ul {
   font-family: "Roboto", sans-serif;
@@ -422,7 +421,7 @@ header ul {
   display: grid;
   grid-template-columns: 25% 34% 20%;
   margin-left: 67%;
-  padding-top: 30px;
+  margin-top: -50px;
 }
 header ul a, header ul a:hover, header ul a:active, header ul a:visited {
   color: white;
@@ -435,7 +434,7 @@ article {
   width: 1452px;
 }
 
-img {
+#flower {
   display: grid;
   padding-left: 45%;
   padding-top: 500px;
@@ -452,20 +451,35 @@ h1 {
   font-weight: bold;
 }
 
-body {
-  font-family: "Roboto", sans-serif;
-  display: grid;
-  grid-template-columns: auto 1440px auto;
-}
-
-img {
-  margin-left: auto;
-}
-
 p {
   font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  display: grid;
+  grid-template-columns: 700px auto;
+  grid-template-rows: 120px;
+  padding-top: 50px;
+  padding-left: 50%;
 }
 
 h2 {
   font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  display: grid;
+  padding-top: 175px;
+  padding-left: 50%;
+}
+
+#image {
+  display: grid;
+  margin-left: 20%;
+  margin-top: -400px;
+  margin-bottom: 10%;
+}
+
+#image2 {
+  display: grid;
+  margin-left: 20%;
+  margin-top: -626px;
+  margin-bottom: 10%;
 }

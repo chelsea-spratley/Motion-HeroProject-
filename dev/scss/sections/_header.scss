@@ -1,14 +1,16 @@
 header {
     position: fixed;
-    background-color: $yellow;
+    // background-color: $yellow;
     height: 90px;
     width: 100%;
     background: rgba(251, 234, 190, 0.5);
 
     img {
         display: grid;
-        top: -490px;
-        left: -600px;
+        // top: -490px;
+        // left: -600px;
+       padding-left: 20px;
+       padding-top: 10px;
     }
 
     ul {
@@ -17,7 +19,7 @@ header {
         display: grid;
         grid-template-columns: 25% 34% 20%;
         margin-left: 67%;
-        padding-top: 30px;
+        margin-top: -50px;
         a, a:hover, a:active, a:visited { color: white; }
     }
     
