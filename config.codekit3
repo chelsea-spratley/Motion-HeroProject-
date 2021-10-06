@@ -41,13 +41,13 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
-    "\/deploy\/js\/scripts.js" : {
+    "\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min.js",
+      "oAP" : "\/deploy\/js\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -89,25 +89,14 @@
       "oAP" : "\/dev\/index.html",
       "oF" : 0
     },
-    "\/dev\/js\/scripts-min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/dev\/js\/scripts-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
     "\/dev\/js\/scripts.js" : {
-      "bF" : 0,
+      "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/dev\/js\/scripts-min.js",
-      "oF" : 0,
+      "oAP" : "\/deploy\/js\/scripts-min.js",
+      "oF" : 2,
       "sC" : 3,
       "tS" : 0
     },
@@ -275,6 +264,28 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/node_modules" : {
+      "ft" : 65536,
+      "oA" : 2,
+      "oAP" : "\/node_modules",
+      "oF" : 0
+    },
+    "\/package-lock.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/package-lock-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
+    "\/package.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/package-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
     },
     "\/README.md" : {
       "cB" : 0,
