@@ -5,23 +5,23 @@ gsap.registerPlugin(GSDevTools);
 
 const mainTL = gsap.timeline();
 
-mainTL.to("logo-1",{duration:3, alpha:0});
-mainTL.to("logo-2",{duration:3, alpha:0});
-mainTL.to("logo-3",{duration:3, alpha:0});
-mainTL.to("logo-4",{duration:3, alpha:0});
-mainTL.to("logo-5",{duration:3, alpha:0});
-mainTL.to("logo-6",{duration:3, alpha:0});
-mainTL.to("logo-7",{duration:3, alpha:0});
-mainTL.to("logo-8",{duration:3, alpha:0});
-mainTL.to("logo-9",{duration:3, alpha:0});
-mainTL.to("logo-10",{duration:3, alpha:0});
-mainTL.to("logo-11",{duration:3, alpha:0});
-mainTL.to("logo-12",{duration:3, alpha:0});
+mainTL.to("#logo-1",{duration:3, alpha:0});
+mainTL.to("#logo-2",{duration:3, alpha:0});
+mainTL.to("#logo-3",{duration:3, alpha:0});
+mainTL.to("#logo-4",{duration:3, alpha:0});
+mainTL.to("#logo-5",{duration:3, alpha:0});
+mainTL.to("#logo-6",{duration:3, alpha:0});
+mainTL.to("#logo-7",{duration:3, alpha:0});
+mainTL.to("#logo-8",{duration:3, alpha:0});
+mainTL.to("#logo-9",{duration:3, alpha:0});
+mainTL.to("#logo-10",{duration:3, alpha:0});
+mainTL.to("#logo-11",{duration:3, alpha:0});
+mainTL.to("#logo-12",{duration:3, alpha:0});
 
 // mainTL.to("flower",{duration:3, alpha:0});
 
 
-gsap.registerPlugin(GSDevTools);
+
 
 
 
