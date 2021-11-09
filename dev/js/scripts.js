@@ -11,9 +11,9 @@ MorphSVGPlugin.convertToPath("circle, rect, ellipse, line, polygon, polyline");
 function dropIn(){
 }
 
-// function background(){
-//     tl.to("#background1", 0)
-// }
+function background(){
+    tl.to("#background1", 0)
+}
 
 function cookie(){
 
@@ -59,13 +59,7 @@ return tl;
 mainTL.add(dropIn())
 .add(cookie())
 .add(hero(),"-=25%");
-
-
-
-
-
-
-
+ add(background())
 
 
 
